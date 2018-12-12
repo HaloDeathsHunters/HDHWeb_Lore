@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Death&#39;s Hunters Lore",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -14,7 +14,7 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
-        "display1Size": 4.25,
+        "display1Size": "4.2",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
