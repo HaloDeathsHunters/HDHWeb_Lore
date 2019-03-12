@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -2774,6 +2775,37 @@ body {
   }
 }
 .cid-rbWBBNTx97 .section-text DIV {
+  text-align: left;
+}
+.cid-rkvXcBW6Hk {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/deaths-hunters-header-2-533x1440.jpg");
+}
+.cid-rkvXK3zFeB {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rkvXK3zFeB .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rkvXK3zFeB .section-text {
+  padding: 2rem 0;
+}
+.cid-rkvXK3zFeB .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rkvXK3zFeB .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rkvXK3zFeB .section-text DIV {
   text-align: left;
 }
 .cid-rbWppvsMtM .navbar {
